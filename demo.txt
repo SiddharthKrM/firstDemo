@@ -1,2 +1,4 @@
 first demo.txt is empty 
 now i am writting in emergency_fix branch
+in new branch i am writting in demo.txt
+here this line is using in new_branch after merging changes in emergency_fix branch to master
